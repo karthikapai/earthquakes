@@ -8413,7 +8413,7 @@ eqdata1
       <td>58.3636</td>
       <td>-154.7016</td>
     </tr>
-    <tr>
+    <tr> 
       <th>829</th>
       <td>Thu, 2 Feb 04:50 UTC</td>
       <td>1.9</td>
