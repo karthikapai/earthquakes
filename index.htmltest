@@ -1,3 +1,4 @@
+<head> <link href="css/bootstrap.min.css" rel="stylesheet"> </head>
 <h1>Earthquakes</h1>
 <p>STAT 141B Exploratory Data Analysis Project</p>
 <h2>Project Earthquake</h2>
