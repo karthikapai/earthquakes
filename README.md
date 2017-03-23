@@ -1151,8 +1151,8 @@ plt.title('Frequencies of Signficant Earthquakes by Year 1965 - 2016')
 ![png](output_42_1.png)
 
 
-<h1>Earthquakes in the USA<h1/>
-<h3>Part 2 By Kathryn Chiang</h3>
+# Earthquakes in the USA
+### Part 2 By Kathryn Chiang
 
 
 ```python
@@ -1169,7 +1169,7 @@ from mpl_toolkits.basemap import Basemap
 from matplotlib.patches import Polygon
 ```
 
-<i>Those are some functions I use for this dataset. We will call the functions later in the project.</i>
+_Those are some functions I use for this dataset. We will call the functions later in the project._
 
 
 ```python
@@ -1255,7 +1255,7 @@ def ratio(df):
 states = ['Alabama','Alaska','Arizona','Arkansas','California','Colorado','Connecticut','Delaware','Florida','Georgia','Hawaii','Idaho', 'Illinois','Indiana','Iowa','Kansas','Kentucky','Louisiana','Maine' 'Maryland','Massachusetts','Michigan','Minnesota','Mississippi', 'Missouri','Montana','Nebraska','Nevada','New Hampshire','New Jersey','New Mexico','New York','North Carolina','North Dakota','Ohio','Oklahoma','Oregon','Pennsylvania','Rhode Island','South  Carolina','South Dakota','Tennessee','Texas','Utah','Vermont','Virginia','Washington','West Virginia','Wisconsin','Wyoming']
 ```
 
-<h2>Let's look at our dataset!</h2>
+## Let's look at our dataset!
 
 <p>The dataset is a csv file that has been downloaded from the <a href = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/csv.php">USGS Earthquake Database</a>. This dataset represents all the earthquakes that have occurred throughout the world from the month January to Febuary, 2017. This dataset includes 7660 earthquakes, but we will only focus on the data that located in the USA.</p>
 
